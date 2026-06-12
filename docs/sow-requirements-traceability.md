@@ -69,10 +69,10 @@ The project is structured in **5 delivery phases across 5 weeks**, with Figma de
 
 | Item | Rationale | Future Phase |
 |---|---|---|
-| Mobile applications (iOS/Android) | Desktop-first MVP | Post-launch |
+| Responsive Desifn | Desktop-first MVP | Post-launch |
 | Custom AI/ML models | API-based AI sufficient for MVP | Phase 2.0 |
-| RAG (Retrieval-Augmented Generation) | Direct context injection is simpler | Phase 2.0 |
-| Docker/Kubernetes | Stakeholder constraint | Post-launch |
+
+
 | BigQuery/Snowflake warehouse | PostgreSQL + materialized views sufficient for MVP scale | Phase 2.0 |
 | Slack integration for notifications | In-app + email + SMS sufficient | Post-launch |
 | Social media ad campaigns | Email/SMS campaigns first | Post-launch |
